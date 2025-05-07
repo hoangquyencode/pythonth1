@@ -1,0 +1,3 @@
+Subject: Thông báo
+
+Đây là nội dung email sẽ được gửi đến người nhận.
